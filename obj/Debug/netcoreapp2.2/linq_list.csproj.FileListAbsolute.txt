@@ -1,0 +1,11 @@
+/Users/jakepreston/workspace/linq_list/obj/Debug/netcoreapp2.2/linq_list.csprojAssemblyReference.cache
+/Users/jakepreston/workspace/linq_list/obj/Debug/netcoreapp2.2/linq_list.csproj.CoreCompileInputs.cache
+/Users/jakepreston/workspace/linq_list/obj/Debug/netcoreapp2.2/linq_list.AssemblyInfoInputs.cache
+/Users/jakepreston/workspace/linq_list/obj/Debug/netcoreapp2.2/linq_list.AssemblyInfo.cs
+/Users/jakepreston/workspace/linq_list/bin/Debug/netcoreapp2.2/linq_list.deps.json
+/Users/jakepreston/workspace/linq_list/bin/Debug/netcoreapp2.2/linq_list.runtimeconfig.json
+/Users/jakepreston/workspace/linq_list/bin/Debug/netcoreapp2.2/linq_list.runtimeconfig.dev.json
+/Users/jakepreston/workspace/linq_list/bin/Debug/netcoreapp2.2/linq_list.dll
+/Users/jakepreston/workspace/linq_list/bin/Debug/netcoreapp2.2/linq_list.pdb
+/Users/jakepreston/workspace/linq_list/obj/Debug/netcoreapp2.2/linq_list.dll
+/Users/jakepreston/workspace/linq_list/obj/Debug/netcoreapp2.2/linq_list.pdb
